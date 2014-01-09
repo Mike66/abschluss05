@@ -1,0 +1,12 @@
+fieldset {
+		border-radius: 20px;
+		margin: 30px;
+		position: relative;
+		border: 3px groove threedface;
+		padding-right: 75%;
+}
+h1 {
+	position: apsolute;
+	left: 100px;
+	font-family: Garamont;
+}
